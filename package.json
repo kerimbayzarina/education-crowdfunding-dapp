@@ -1,0 +1,26 @@
+{
+  "name": "education-crowdfunding-dapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kerimbayzarina/education-crowdfunding-dapp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/kerimbayzarina/education-crowdfunding-dapp/issues"
+  },
+  "homepage": "https://github.com/kerimbayzarina/education-crowdfunding-dapp#readme",
+  "devDependencies": {
+    "@types/node": "^22.19.9",
+    "hardhat": "^3.1.7",
+    "typescript": "~5.8.0"
+  }
+}
